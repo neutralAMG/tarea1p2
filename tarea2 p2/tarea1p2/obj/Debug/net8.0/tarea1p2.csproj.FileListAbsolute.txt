@@ -1,0 +1,14 @@
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\bin\Debug\net8.0\tarea1p2.exe
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\bin\Debug\net8.0\tarea1p2.deps.json
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\bin\Debug\net8.0\tarea1p2.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\bin\Debug\net8.0\tarea1p2.dll
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\bin\Debug\net8.0\tarea1p2.pdb
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\tarea1p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\tarea1p2.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\tarea1p2.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\tarea1p2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\tarea1p2.dll
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\refint\tarea1p2.dll
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\tarea1p2.pdb
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\tarea1p2.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\programacion 2\tarea2 p2\tarea1p2\obj\Debug\net8.0\ref\tarea1p2.dll
