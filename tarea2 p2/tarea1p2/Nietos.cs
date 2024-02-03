@@ -4,7 +4,7 @@ class Administrador : Docente
     protected string MateriaAdministrada { get; set; }
 
     //constructor
-    public Administrador(string nombre, int edad, string email, string telefono, string id, int salario, string calificacion, bool enVacaciones, string cv, string materiaAdministrada) : base(nombre, edad, email, telefono, id, salario, calificacion, enVacaciones, cv)
+    public Administrador(string nombre, int edad, string email, string telefono, string id, int salario, string calificacion, bool enVacaciones, string cv, string materiaAdministrada, List<string> materiasImpartidas, List<Estudiante> estudiantes) : base(nombre, edad, email, telefono, id, salario, calificacion, enVacaciones, cv, materiasImpartidas, estudiantes)
     {
         MateriaAdministrada = materiaAdministrada;
     }
@@ -32,7 +32,7 @@ class Administrador : Docente
 class Maestro : Docente
 {
     //constructor
-    public Maestro(string nombre, int edad, string email, string telefono, string id, int salario, string calificacion, bool enVacaciones, string cv) : base(nombre, edad, email, telefono, id, salario, calificacion, enVacaciones, cv)
+    public Maestro(string nombre, int edad, string email, string telefono, string id, int salario, string calificacion, bool enVacaciones, string cv, List<string> materiasImpartidas, List<Estudiante> estudiantes) : base(nombre, edad, email, telefono, id, salario, calificacion, enVacaciones, cv, materiasImpartidas, estudiantes)
     {
     }
 

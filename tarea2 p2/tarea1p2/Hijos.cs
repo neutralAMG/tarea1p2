@@ -6,8 +6,10 @@ class Docente : Empleado
     public List<string>? MateriasImpartidas { get; set; }
 
     //constructor
-    public Docente(string nombre, int edad, string email, string telefono, string id, int salario, string calificacion, bool enVacaciones, string cv) : base(nombre, edad, email, telefono, id, salario, calificacion, enVacaciones, cv)
+    public Docente(string nombre, int edad, string email, string telefono, string id, int salario, string calificacion, bool enVacaciones, string cv, List<string> materiasImpartidas, List<Estudiante> estudiantes) : base(nombre, edad, email, telefono, id, salario, calificacion, enVacaciones, cv)
     {
+        Estudiantes = estudiantes;
+        MateriasImpartidas = materiasImpartidas;
     }
 
     public virtual void Calificar(List<string> materiasImpartidas)
